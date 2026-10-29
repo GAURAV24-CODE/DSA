@@ -1,0 +1,174 @@
+1. Introduction to Python
+[ ] What is Python?
+[ ] Python installation and environment setup
+[ ] Python interpreter and execution
+[ ] Python scripts, notebooks and REPL
+[ ] IDLE, VS Code and Jupyter Notebook
+[ ] Comments and indentation
+[ ] Syntax errors and runtime errors
+[ ] PEP 8 style conventions
+
+2. Variables, data types and operators
+[ ] Variables and naming rules
+[ ] int, float, complex
+[ ] str and bool
+[ ] None and NoneType
+[ ] Type checking with type() and isinstance()
+[ ] Type conversion and casting
+[ ] Arithmetic operators
+[ ] Comparison operators
+[ ] Logical operators
+[ ] Assignment operators
+[ ] Bitwise operators
+[ ] Membership and identity operators
+[ ] Operator precedence
+[ ] Mutable vs immutable objects
+[ ] Object identity and equality
+
+3. Input, output and formatting
+[ ] input() and print()
+[ ] Multiple inputs
+[ ] Type conversion of input
+[ ] sep and end arguments
+[ ] f-strings
+[ ] str.format()
+[ ] Formatting numbers and decimals
+[ ] Escape sequences
+[ ] Basic debugging of input/output
+
+4. Conditional statements and loops
+[ ] if, elif and else
+[ ] Nested conditions
+[ ] Truthy and falsy values
+[ ] for loops
+[ ] while loops
+[ ] range()
+[ ] break and continue
+[ ] pass statement
+[ ] Nested loops
+[ ] Loop else clauses
+[ ] Common loop patterns
+[ ] Basic number and pattern programs
+
+5. Core collections
+[ ] Strings: indexing and slicing
+[ ] String methods
+[ ] Lists and list methods
+[ ] List indexing and slicing
+[ ] Tuples and tuple unpacking
+[ ] Sets and set operations
+[ ] Dictionaries and key-value pairs
+[ ] Dictionary methods
+[ ] Membership and iteration
+[ ] Nested collections
+[ ] Copying collections
+[ ] Shallow vs deep copy
+[ ] Comprehensions: list, set and dictionary
+
+6. Functions and functional Python
+[ ] Defining and calling functions
+[ ] Parameters and arguments
+[ ] Positional and keyword arguments
+[ ] Default arguments
+[ ] *args and **kwargs
+[ ] return vs print
+[ ] Local and global scope
+[ ] LEGB scope rule
+[ ] Lambda functions
+[ ] map() and filter()
+[ ] sorted() with key
+[ ] zip() and enumerate()
+[ ] any() and all()
+[ ] Recursion fundamentals
+[ ] Docstrings and type hints
+
+7. Error and exception handling
+[ ] Syntax errors vs exceptions
+[ ] try and except
+[ ] Handling multiple exceptions
+[ ] else and finally
+[ ] raise statement
+[ ] Custom exceptions
+[ ] Assertions
+[ ] Debugging with tracebacks
+[ ] Defensive programming
+
+8. Modules, packages and environments
+[ ] import and from ... import
+[ ] Built-in modules
+[ ] Creating custom modules
+[ ] Packages and __init__.py
+[ ] if __name__ == '__main__'
+[ ] pip and package installation
+[ ] Virtual environments (venv)
+[ ] requirements.txt
+[ ] PYTHONPATH basics
+[ ] Standard library exploration
+
+9. Object-oriented programming
+[ ] Classes and objects
+[ ] __init__ and self
+[ ] Instance and class attributes
+[ ] Instance, class and static methods
+[ ] Encapsulation
+[ ] Inheritance
+[ ] Polymorphism
+[ ] Abstraction
+[ ] Method overriding
+[ ] super()
+[ ] Composition vs inheritance
+[ ] Properties and @property
+[ ] Dataclasses
+[ ] Special/dunder methods
+[ ] Object representation with __str__ and __repr__
+
+10. Intermediate and advanced Python
+[ ] Iterables and iterators
+[ ] iter() and next()
+[ ] Generators and yield
+[ ] Generator expressions
+[ ] Decorators
+[ ] Closures
+[ ] First-class functions
+[ ] Context managers and with
+[ ] __enter__ and __exit__
+[ ] Comprehension performance
+[ ] Mutable default argument pitfalls
+[ ] Late binding and closures
+[ ] Descriptors overview
+[ ] Metaclasses overview
+[ ] Async/await fundamentals
+
+11. Files, data formats and useful libraries
+[ ] Opening and closing files
+[ ] read(), readline(), write()
+[ ] with open()
+[ ] File modes and encodings
+[ ] Pathlib and filesystem paths
+[ ] os and shutil basics
+[ ] JSON with json
+[ ] CSV with csv
+[ ] Dates and times with datetime
+[ ] Regular expressions with re
+[ ] Collections: Counter, defaultdict, deque
+[ ] Heapq and priority queues
+[ ] Bisect and binary search utilities
+[ ] Logging
+[ ] argparse and command-line arguments
+
+12. Testing, performance and professional Python
+[ ] Unit testing with unittest or pytest
+[ ] Test cases and assertions
+[ ] Mocking basics
+[ ] Git and GitHub workflow
+[ ] Debugging with breakpoints
+[ ] Time complexity and space complexity
+[ ] timeit and profiling
+[ ] Memory management and garbage collection
+[ ] Big-O analysis of Python operations
+[ ] Threading vs multiprocessing
+[ ] Global Interpreter Lock (GIL) basics
+[ ] Async I/O concepts
+[ ] Documentation and project structure
+[ ] Code quality and linting
+[ ] Type checking and annotations
