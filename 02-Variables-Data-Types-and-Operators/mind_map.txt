@@ -1,0 +1,41 @@
+                PYTHON VARIABLES & DATA TYPES
+                           |
+          +----------------+----------------+
+          |                |                |
+       VARIABLES       DATA TYPES      TYPE CONVERSION
+          |                |                |
+     - Assign values   +---+---+         int()
+     - Variable names  |   |   |         float()
+     - Naming rules   int float str       str()
+     - Dynamic typing  |   |   |          bool()
+                       +---+---+
+                           |
+                     Other Data Types
+                           |
+                +----------+----------+
+                |          |          |
+               bool       list       tuple
+                           |
+                      +----+----+
+                      |         |
+                     set       dict
+
+                           |
+                      KEY CONCEPTS
+                           |
+                 +---------+---------+
+                 |         |         |
+              type()    Mutability  Assignment
+                 |         |         |
+             Check type  Mutable   = operator
+                         Immutable
+
+                           |
+                    PRACTICAL APPLICATIONS
+                           |
+                +----------+----------+
+                |          |          |
+           Student Marks  Variables  Calculations
+            Calculator   Practice    & Discounts
+
+                       
