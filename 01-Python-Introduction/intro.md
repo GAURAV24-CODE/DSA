@@ -11,7 +11,7 @@ Python is a high-level programming language used to give instructions to a compu
 - Web development
 
 ## Important tools
-- Python: runs Python programs.
+- Python: runs Python program
 - VS Code: editor for writing code.
 - Jupyter Notebook: runs code in cells.
 - REPL: allows interactive Python execution.
