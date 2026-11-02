@@ -44,4 +44,4 @@ print(type(percentage))
 - [ ] Understand Python data types.
 - [ ] Use the `type()` function.
 - [ ] Practice type conversion.
-- [ ] Complete five practice tasks.
+- [ ] Complete five practice tas
