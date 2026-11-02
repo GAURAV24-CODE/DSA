@@ -36,6 +36,6 @@
                 +----------+----------+
                 |          |          |
            Student Marks  Variables  Calculations
-            Calculator   Practice    & Discount
+            Calculator   Practice    & Discou
 
                        
